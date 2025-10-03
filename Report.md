@@ -7,9 +7,11 @@
 3. [PR #3: Của Huy]( https://github.com/25119166-star/ACADAMY/pull/1)
 
 ## 👥 Thành viên & Nhiệm vụ
-- Nguyễn Thanh Toàn và Lê Gia Huy: Tạo repo, viết README, quản lý branch.  
-- Nguyễn Công Triển : Viết code chức năng chính, xử lý conflict.  
-- Thái Quốc Huy và Ngụy Anh Kiệt: Viết tài liệu, tạo report, kiểm tra PR.  
+## Phân công công việc
+- **Nguyễn Thanh Toàn** & **Lê Gia Huy**: Khởi tạo repo, viết README, quản lý branch.  
+- **Nguyễn Công Triển**: Phát triển chức năng chính, xử lý conflict.  
+- **Thái Quốc Huy** & **Ngụy Anh Kiệt**: Viết tài liệu, lập report, review Pull Request.  
+ 
 
 ## 💻 Lệnh Git được dùng nhiều nhất
 - `git clone`  
